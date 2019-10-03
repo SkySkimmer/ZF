@@ -10,9 +10,9 @@ liked. I didn't write down where I got it from, but since the
 shortened tactics (`ir` for `intros`, `ap` for `apply`, etc) and some
 lemma names survived my changes we can tell it was probably
 https://github.com/coq-contribs/cats-in-zfc (original author Carlos
-Simpson, see also https://math.unice.fr/~carlos/old/indexFev07.html
-which has history from before the svn to git import). LICENSE is
-accordingly LGPL2.1.
+Simpson, see also paper https://arxiv.org/abs/math/0410224 and
+https://math.unice.fr/~carlos/old/indexFev07.html which has history
+from before the svn to git import). LICENSE is accordingly LGPL2.1.
 
 Some differences:
 
